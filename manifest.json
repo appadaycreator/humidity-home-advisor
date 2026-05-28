@@ -3,7 +3,7 @@
   "short_name": "humidity-hom",
   "start_url": "/humidity-home-advisor/",
   "display": "standalone",
-  "background_color": "#6366f1",
+  "background_color": "#ffffff",
   "theme_color": "#7c3aed",
   "scope": "/humidity-home-advisor/"
 }
